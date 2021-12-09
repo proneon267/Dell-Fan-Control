@@ -1,0 +1,1 @@
+DellFanCmd.exe ec-enable
